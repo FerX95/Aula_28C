@@ -1,5 +1,6 @@
 body{
     background-color: aliceblue;
+    background-color: darkslategrey;
 }
 
 .box{
@@ -10,5 +11,9 @@ body{
 
 .black{
     background-color: black;
+    color: white;
+}
+.darkslategrey{
+    background-color: darkslategrey;
     color: white;
 }
