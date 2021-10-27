@@ -13,7 +13,14 @@ body{
     color: white;
 }
 
+<<<<<<< HEAD
 .orange{
     background-color: orange;
     color: white;
 }
+=======
+.blue{
+    background-color: rgb(70, 70, 142);
+    color: white;
+}
+>>>>>>> a858762d74c270ff467ee3af235a76dace4222d5
