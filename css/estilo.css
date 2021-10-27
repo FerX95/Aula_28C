@@ -12,3 +12,8 @@ body{
     background-color: black;
     color: white;
 }
+
+.blue{
+    background-color: rgb(70, 70, 142);
+    color: white;
+}
