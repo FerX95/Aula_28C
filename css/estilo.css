@@ -1,19 +1,24 @@
-body{
-    background-color: aliceblue;
+body {
+  background-color: aliceblue;
 }
 
-.box{
-    text-align: center;
-    width: 250px;
-    line-height: 250px;
+.box {
+  text-align: center;
+  width: 250px;
+  line-height: 250px;
 }
 
-.black{
-    background-color: black;
-    color: white;
+.black {
+  background-color: black;
+  color: white;
 }
 
-.blue{
-    background-color: rgb(70, 70, 142);
-    color: white;
+.blue {
+  background-color: rgb(70, 70, 142);
+  color: white;
+}
+
+.pink {
+  background-color: rgb(255, 0, 242);
+  color: white;
 }
