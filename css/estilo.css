@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+}
+
+.box{
+    text-align: center;
+    width: 250px;
+    line-height: 250px;
+}
+
+.black{
+    background-color: black;
+    color: white;
+}
