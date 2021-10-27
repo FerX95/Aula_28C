@@ -13,10 +13,7 @@ body{
     color: white;
 }
 
-.box_green{
-    text-align: center;
-    width: 250px;
-    line-height: 250px;
+.green{
     background-color: lightgreen;
     color: black;
 }
