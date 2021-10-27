@@ -12,3 +12,11 @@ body{
     background-color: black;
     color: white;
 }
+
+.box_green{
+    text-align: center;
+    width: 250px;
+    line-height: 250px;
+    background-color: lightgreen;
+    color: black;
+}
